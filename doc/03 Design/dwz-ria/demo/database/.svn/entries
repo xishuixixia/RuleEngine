@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/demo/database"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="db_attachmentBrightBack.html"
+   checksum="193bcdc322a1f929a11d7638b8fd0016"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="db_attachmentLookup.html"
+   checksum="ec462e213478f34a5dcb3918b3ddd959"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="db_lookupSuggest.html"
+   checksum="cf857577b92534113b454acdc0fd3ed8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="db_select.html"
+   checksum="c043650199d683b02e9e1de70adcb154"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="db_widget.html"
+   checksum="149898479e31e74a15b17957e54379f6"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwzOrgLookup.html"
+   checksum="eb617418a7e584a9127d6acb7260514d"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwzOrgLookup2.html"
+   checksum="c6e2b3f6250b154c9e49898df6841fe8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="treeBringBack.html"
+   checksum="26bce730e415731e89242fcd74a15f3c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="treeLookup.html"
+   checksum="613d91d5a9e4e4c240e7f9ddee6d9e18"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/themes/azure/images/button"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="button_s.png"
+   checksum="c483d3473bb8c87296543bedcaed0dae"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="imgX.gif"
+   checksum="d28e3766e621cda8e6d1c46fce30f7b7"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="imgX.png"
+   checksum="dafa64cd657b3d27a5ee868c8dbe3571"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+</wc-entries>

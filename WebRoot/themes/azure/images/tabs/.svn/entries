@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/themes/azure/images/tabs"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="Thumbs.db"
+   checksum="d601131009b51c203cf94e91675cf99e"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="tabscontrol.png"
+   checksum="08973cdad7d772fab36fa50e8dd4324f"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="tabspage.png"
+   checksum="f214384c328908c7c2052df71f1048f8"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="tabspage_icon.png"
+   checksum="e435cdb340c6b2f230f891c714cb2dc7"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="tabspanel.png"
+   checksum="d040c1245d67ddaf7ab4ac1f8b51b482"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+</wc-entries>

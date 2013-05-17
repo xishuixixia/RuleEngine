@@ -1,0 +1,55 @@
+10
+
+dir
+11429
+svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/test/com/hxrainbow
+svn://192.168.100.213/hxbos
+
+
+
+2013-04-26T03:23:56.671875Z
+11378
+guolei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3f7a3d14-fe23-b64b-80ec-6e9f810302a0
+
+Card.java
+file
+
+
+
+
+2013-04-22T05:48:38.000000Z
+ce5565c10380f3293e6d6308395c9902
+2013-04-22T05:48:38.296875Z
+11210
+guolei
+
+Member.java
+file
+
+
+
+
+2013-04-25T03:06:11.000000Z
+f4121a75804e069954bcaa86234e78ae
+2013-04-25T03:06:11.343750Z
+11320
+guolei
+
+rule
+dir
+

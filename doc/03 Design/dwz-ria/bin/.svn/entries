@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/bin"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="ESC.wsf"
+   checksum="7a4303196b7347f1cc9adbfb74839a39"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.min.js"
+   checksum="05b0bfbe41bbe075f690b21e3e20c2bd"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="gzip.exe"
+   checksum="3b47da704260eb2eb12f5d53c347e6c3"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:28:00.000000Z"/>
+<entry
+   name="gzjs.bat"
+   checksum="542eb8ba340fa898097cedb9ed2978fb"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+</wc-entries>

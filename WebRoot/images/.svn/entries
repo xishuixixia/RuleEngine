@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="zhuzhisheng"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/images"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10976"
+   kind="dir"
+   committed-date="2013-04-15T09:06:29.015625Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+</wc-entries>

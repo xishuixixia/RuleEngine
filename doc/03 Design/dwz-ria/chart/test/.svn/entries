@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/chart/test"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="barchart.html"
+   checksum="a43d17fead8b940f011df8a7d83b71ed"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="hbarchart.html"
+   checksum="9db82b9c5877ba974a8d421f466e5acc"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="linechart.html"
+   checksum="014b4ddec3dda04ed901a02c67280bf2"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="linechart2.html"
+   checksum="8c84ca97daa975b513b56c82e962ec23"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="linechart3.html"
+   checksum="bcb3f39c3e690490127bef2f8ba2bf94"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="piechart.html"
+   checksum="5af41e60b4507c3b054f37de18016a2f"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+</wc-entries>

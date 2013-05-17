@@ -1,0 +1,17 @@
+#HIBERNATE
+hibernate.dialect=org.hibernate.dialect.MySQLDialect
+hibernate.show_sql=false
+hibernate.format_sql=false
+hibernate.jdbc.batch_size=50
+#druid
+druid.alias=dataSource
+druid.username=root
+druid.password=123456
+druid.driver=com.mysql.jdbc.Driver
+druid.url=jdbc:mysql://192.168.100.180:3306/rule?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&autoReconnectForPools=true&failOverReadOnly=false
+druid.minIdle=1
+druid.initialSize=1
+druid.maxActive=20
+druid.maxWait=60000
+druid.timeBetweenEvictionRunsMillis=60000
+druid.minEvictableIdleTimeMillis=300000

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/main"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11199"
+   kind="dir"
+   committed-date="2013-04-19T09:49:21.859375Z"/>
+<entry
+   name="index.jsp"
+   checksum="6bcebdbbfc1a5a56a2c8fc4d7ff1c565"
+   last-author="guolei"
+   committed-rev="11199"
+   text-time="2013-04-19T09:49:21.000000Z"
+   kind="file"
+   committed-date="2013-04-19T09:49:21.859375Z"/>
+</wc-entries>

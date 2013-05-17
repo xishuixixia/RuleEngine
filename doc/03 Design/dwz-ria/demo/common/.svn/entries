@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/demo/common"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="ajaxDone.html"
+   checksum="3a4eb8e3754d5257d9187a94bf5d5bde"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="ajaxDone.json"
+   checksum="3a4eb8e3754d5257d9187a94bf5d5bde"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="ajaxTimeout.html"
+   checksum="9aa8c6a23ddd819e24c8746619240f22"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz-team.xls"
+   checksum="6c009eff6b01568a193c310bcfcd8a9d"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:58.000000Z"/>
+</wc-entries>

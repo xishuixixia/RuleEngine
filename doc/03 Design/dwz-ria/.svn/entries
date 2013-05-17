@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name=".project"
+   checksum="4c5dfce93ed42e1302dd0e32199d58f8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="changepwd.html"
+   checksum="5397c46b4b84e18ce0c25e13b7b5dbcf"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="chart"
+   kind="dir"/>
+<entry
+   name="demo"
+   kind="dir"/>
+<entry
+   name="demo_page1.html"
+   checksum="ac955ea8ff6648eea4a6bd21ebbe6b28"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="demo_page2.html"
+   checksum="adf761aea2e1909b5fb789c2f556cc5c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="demo_page4.html"
+   checksum="4f63b4b087a5e6eca46f22f51c417ce2"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="demo_page5.html"
+   checksum="15357797bc46fb6b5cb4b39e7f130f82"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="demo_page6.html"
+   checksum="1ebae2e0af0c176c80d87e69bcbb8004"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="demo_upload.html"
+   checksum="715931d3a4e87d8f25759a49b61f3b32"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="dwz.frag.xml"
+   checksum="3ac0e99c77944a5c3ab089dddc14c84d"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="favicon.ico"
+   checksum="9a696c1288eb260e1632ea95a71462c0"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:28:00.000000Z"/>
+<entry
+   name="index.html"
+   checksum="df0936829010d73bf2874700c4e504e8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="index_menu.html"
+   checksum="79ad6d62364c36460f9ac58063c28e2c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   name="login.html"
+   checksum="f4d2765b1b6de7bebbe8736f2b3c24a7"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="login_dialog.html"
+   checksum="c495032eee6894cdf9efcf34cbd97171"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="main.html"
+   checksum="cd5c3cf801daa785bee77736fad8efc3"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="newPage1.html"
+   checksum="6b8281589d5967e68d167fcc8c301f6e"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:28:00.000000Z"/>
+<entry
+   name="newPage2.html"
+   checksum="2e17deeb5db1690c1d91bddd89d3dcfc"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:28:01.000000Z"/>
+<entry
+   name="newPage3.html"
+   checksum="ff0edfeb830a22c4bdf6ce3da9adac46"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:28:00.000000Z"/>
+<entry
+   name="sidebar_1.html"
+   checksum="e332eaef6a3c165d7460c84ffdb8e156"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="sidebar_2.html"
+   checksum="bf961706ea612e4c2325234a73a2d5c8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="tabsPage.html"
+   checksum="b0841993e0a407291db03d612973e8e4"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   name="uploadify"
+   kind="dir"/>
+<entry
+   name="validate_remote.html"
+   checksum="68934a3e9455fa72420237eb05902327"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_accordion.html"
+   checksum="dde5320b04e4bc0fd0c68eb576b5f32c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_alert.html"
+   checksum="2caf5b6217abcb2a832d635ac5d3cc24"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_button.html"
+   checksum="3e60f897dd3e02ce1fd92d75d5e94153"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_checkbox.html"
+   checksum="cd9c4c9b3c3562d799430b6bff032cca"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_combox.html"
+   checksum="84d2a638940f20aaf049e36b74e45e97"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_datepicker.html"
+   checksum="72aaf03cae8ff241293e26a14abb7a3c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_dialog.html"
+   checksum="95d932e2c4f311f27ad6a55e09a00a45"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_editor.html"
+   checksum="a5a47ee89034cac37fc9d6f967308c43"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_list.html"
+   checksum="7509f6135217c2b5a13aa470393ad48d"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_panel.html"
+   checksum="5b2c2913603bc55fe40db249780e4d9c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_removeSelected.html"
+   checksum="042f1a40a6b944316eabef84fcbac486"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_tabs.html"
+   checksum="5e7ba9862f45518e5bc4681f7ceb57b3"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_textInput.html"
+   checksum="65ed30a424b3d98a4689582d905504a8"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_tree.html"
+   checksum="618049d574b50c6bfffc4bc913caf745"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_uploadify.html"
+   checksum="e85b2cd371cde488e374605e6e9083d0"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="w_validation.html"
+   checksum="a4202655782cdd6b4c1e8d3a635d4e69"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="window_open.html"
+   checksum="0b125613c159d4044c61c9414e126a71"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="xheditor"
+   kind="dir"/>
+</wc-entries>

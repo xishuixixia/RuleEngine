@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="scene-package" extends="struts-default"  namespace="/scene">
+	    <!-- 场景相关配置 -->
+		<action name = "*Scene" class = "sceneAction" method = "{1}Scene">
+		    <result name="list_scene">/scene/sceneList.jsp</result>
+		    <result name="show">/scene/updateScene.jsp</result>
+		    <result name="list_entity_scene">/scene/entitySceneList.jsp</result>
+	        <result name="list_entity">/scene/entityList.jsp</result>
+		</action>
+		
+		<action name="saveEntityList" class="sceneAction" method="saveEntityList">
+			
+		</action>
+		
+	</package>
+	</struts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<constant name="struts.configuration.xml.reload" value="false"/>
+	<constant name="struts.devMode" value="false"/>
+	<constant name="struts.i18n.encoding" value="UTF-8"/>
+	<constant name="struts.objectFactory" value="spring" />
+	
+	<!-- 全局的结果集、映射 -->
+	<package name="my-package" extends="struts-default">
+ 	<global-results>  
+        <result name="exception" type="redirect">/test/error.jsp</result>  
+    </global-results>  
+    <global-exception-mappings>  
+        <exception-mapping result="exception"  
+            exception="java.lang.Exception">  
+        </exception-mapping>  
+    </global-exception-mappings>  
+	</package>
+    <include file="struts/struts-*.xml"/>
+</struts>

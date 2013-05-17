@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/js"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11301"
+   kind="dir"
+   committed-date="2013-04-24T09:07:32.515625Z"/>
+<entry
+   name="additional-methods.js"
+   checksum="12f58176fa2c9a56a1ad5bd4beeab79e"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.accordion.js"
+   checksum="2279df2849563304322d6935621abd59"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.ajax.js"
+   checksum="37fba913cfc91972144fd83ef85b09e5"
+   last-author="guolei"
+   committed-rev="11142"
+   text-time="2013-04-18T08:18:46.000000Z"
+   kind="file"
+   committed-date="2013-04-18T08:18:46.953125Z"/>
+<entry
+   name="dwz.alertMsg.js"
+   checksum="80b3edab4e43acf6483c2804d91373be"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.barDrag.js"
+   checksum="a0bb930d44f7d457339893920f8164ec"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.checkbox.js"
+   checksum="b0581df7bd3e72722e8553b5aba5dbe7"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.combox.js"
+   checksum="8e524df0e2baeb842e462535d68ac967"
+   last-author="guolei"
+   committed-rev="10954"
+   text-time="2013-04-15T02:15:56.000000Z"
+   kind="file"
+   committed-date="2013-04-15T02:15:56.234375Z"/>
+<entry
+   name="dwz.contextmenu.js"
+   checksum="3a10df550d9b55ee8397320f24e1c62b"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.core.js"
+   checksum="f4aeaec6f49585702baad198b27d4993"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.cssTable.js"
+   checksum="57a2b2f44aa362d29f388061bab1b2ba"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.database.js"
+   checksum="ade04b93b4f49b5c7de64bf8cc87b6f5"
+   last-author="guolei"
+   committed-rev="11301"
+   text-time="2013-04-24T09:07:32.000000Z"
+   kind="file"
+   committed-date="2013-04-24T09:07:32.515625Z"/>
+<entry
+   name="dwz.datepicker.js"
+   checksum="be46648ca2d38f55115fa7b48f5ce323"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.dialog.js"
+   checksum="3f7c2e388fea2deaddf5bbe61435cce7"
+   last-author="guolei"
+   committed-rev="11170"
+   text-time="2013-04-19T04:59:44.000000Z"
+   kind="file"
+   committed-date="2013-04-19T04:59:44.437500Z"/>
+<entry
+   name="dwz.dialogDrag.js"
+   checksum="0c851513fa81e8b9fe4750360ca614f4"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.drag.js"
+   checksum="97d6f81f7359d3317bc43fca2f9f8d3a"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.effects.js"
+   checksum="ea9ff47e5e278187e2070e5fa668872a"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.history.js"
+   checksum="3e1475a041951cacde1f4345083c8b98"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.navTab.js"
+   checksum="99df8510b2d6d958a11d4ea9caa54731"
+   last-author="guolei"
+   committed-rev="11169"
+   text-time="2013-04-19T03:31:55.000000Z"
+   kind="file"
+   committed-date="2013-04-19T03:31:55.906250Z"/>
+<entry
+   name="dwz.pagination.js"
+   checksum="148b2d5c38c1a5cf6a1bb0554ec16508"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.panel.js"
+   checksum="8191c9b7a998c325d447e5a1fa97e7a7"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.print.js"
+   checksum="91193984c5c54a3661823f5eacf1a3ef"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.regional.zh.js"
+   checksum="1f85a8d3aab05637cf48cdce73f09f3c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.resize.js"
+   checksum="82ad507c57dbf973f0aa519f1b446213"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.scrollCenter.js"
+   checksum="f37c56e5972d35520ea34dc314524a81"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.sortDrag.js"
+   checksum="01e09b79204c12da7e926cb915525c1d"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.stable.js"
+   checksum="2e7eaf5ce3d039a44eb7515668d6c4ac"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.switchEnv.js"
+   checksum="8cccb26274afe153de6ded8a10edeead"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.tab.js"
+   checksum="7934faf6c1cec4d6c96e7161551e7319"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.taskBar.js"
+   checksum="ec0eab8d4b77bc0fd4d1ed53fa73c882"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.theme.js"
+   checksum="2e54f12fc9065b80c52d494cdfd4531a"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.tree.js"
+   checksum="2c139b34e166d2905ecf1bea19e4927c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.ui.js"
+   checksum="9fd483527b7b9e621d5065821635ff52"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.util.date.js"
+   checksum="05d3a427147203376cfdb0fcd2b2f90c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.util.number.js"
+   checksum="fdf7c80cf71f48e1eec80b24e25c18eb"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="dwz.validate.method.js"
+   checksum="a390b5f6eb20cedd26489c5f1369bf3c"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery-1.7.2.js"
+   checksum="af693f9aea7dae36fb3bef4c9b6e56fb"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery-1.7.2.min.js"
+   checksum="b8d64d0bc142b3f670cc0611b0aebcae"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery.bgiframe.js"
+   checksum="3d788d4be0ef0514c26fba9295479f66"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery.cookie.js"
+   checksum="801db133e7a68377bb64fa1b02044d7d"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery.easing.1.3.js"
+   checksum="6516449ed5089677ed3d7e2f11fc8942"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery.textbox.js"
+   checksum="bd1b483a49ba09b9437ead5c8840adbb"
+   last-author="guolei"
+   committed-rev="10954"
+   text-time="2013-04-15T02:15:56.000000Z"
+   kind="file"
+   committed-date="2013-04-15T02:15:56.234375Z"/>
+<entry
+   name="jquery.validate.js"
+   checksum="08a9f59ec53a137bf048553d4dfd328b"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="jquery.validate.min.js"
+   checksum="3d354a1deb344d62e1f70a825272b4af"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="speedup.js"
+   checksum="84e6fc5df5231ca62490308170a1d6da"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+</wc-entries>

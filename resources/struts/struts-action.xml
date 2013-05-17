@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="action-package" extends="struts-default"  namespace="/action">
+	    <!-- 动作类型相关配置 -->
+		<action name = "*Meta" class = "AMetaAction" method = "{1}Meta">
+		    <result name="list_meta">/action/actionMetaList.jsp</result>
+		    <result name="showMeta">/action/updateActionMeta.jsp</result>
+		    <result name="view">/action/viewActionMeta.jsp</result>
+		    <result name="rule_meta">/rule/showActionType.jsp</result>
+		</action>
+		<action name = "*Action" class = "AMetaAction" method = "{1}Action">
+		    <result name="add_action">/rule/addAction.jsp</result>
+		</action>
+	</package>
+	</struts>

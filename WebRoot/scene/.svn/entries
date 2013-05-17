@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/scene"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11224"
+   kind="dir"
+   committed-date="2013-04-22T08:47:06.593750Z"/>
+<entry
+   name="addScene.jsp"
+   checksum="9c7ec1547e8aa5ebf5f00db306d09c22"
+   last-author="guolei"
+   committed-rev="11224"
+   text-time="2013-04-22T08:47:06.000000Z"
+   kind="file"
+   committed-date="2013-04-22T08:47:06.593750Z"/>
+<entry
+   name="entityList.jsp"
+   checksum="786c2e619365cbcbf5968d1948bd768e"
+   last-author="guolei"
+   committed-rev="11220"
+   text-time="2013-04-22T08:20:23.000000Z"
+   kind="file"
+   committed-date="2013-04-22T08:20:23.187500Z"/>
+<entry
+   name="entitySceneList.jsp"
+   checksum="8538a1c1118745a74ee2299514f371bc"
+   last-author="zhuzhisheng"
+   committed-rev="11189"
+   text-time="2013-04-19T08:05:35.000000Z"
+   kind="file"
+   committed-date="2013-04-19T08:05:35.359375Z"/>
+<entry
+   name="sceneList.jsp"
+   checksum="d637cb4e2392255ec59928cc73fbd9dd"
+   last-author="zhuzhisheng"
+   committed-rev="11191"
+   text-time="2013-04-19T08:16:23.000000Z"
+   kind="file"
+   committed-date="2013-04-19T08:16:23.312500Z"/>
+<entry
+   name="updateEntity.jsp"
+   checksum="55a6c484d6766af89c7062d4895afd38"
+   last-author="guolei"
+   committed-rev="10904"
+   text-time="2013-04-11T08:05:09.000000Z"
+   kind="file"
+   committed-date="2013-04-11T08:05:09.953125Z"/>
+<entry
+   name="updateScene.jsp"
+   checksum="90f80af71f2d5b26487c964693f2bfa7"
+   last-author="liuyaxin"
+   committed-rev="11130"
+   text-time="2013-04-18T06:22:24.000000Z"
+   kind="file"
+   committed-date="2013-04-18T06:22:24.718750Z"/>
+</wc-entries>

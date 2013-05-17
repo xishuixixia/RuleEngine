@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/04%20Test/sql"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11363"
+   kind="dir"
+   committed-date="2013-04-25T09:14:07.750000Z"/>
+<entry
+   name="1.sql"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="guolei"
+   committed-rev="10876"
+   text-time="2013-04-10T04:36:29.000000Z"
+   kind="file"
+   committed-date="2013-04-10T04:36:29.593750Z"/>
+<entry
+   name="backupfile.sql"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="guolei"
+   committed-rev="11363"
+   text-time="2013-04-25T09:14:07.000000Z"
+   kind="file"
+   committed-date="2013-04-25T09:14:07.750000Z"/>
+<entry
+   name="datastructure_20130410.sql"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="guolei"
+   committed-rev="10896"
+   text-time="2013-04-11T03:33:57.000000Z"
+   kind="file"
+   committed-date="2013-04-11T03:33:57.890625Z"/>
+<entry
+   name="datastructure_20130411.sql"
+   checksum="2aaccf3255d58996d0d14d70b8dbb0b1"
+   last-author="liuyaxin"
+   committed-rev="10907"
+   text-time="2013-04-11T09:33:04.000000Z"
+   kind="file"
+   committed-date="2013-04-11T09:33:04.937500Z"/>
+<entry
+   name="sql_20130416.sql"
+   checksum="7df0758477e3687ea5079fec3e029a53"
+   last-author="zhuzhisheng"
+   committed-rev="11035"
+   text-time="2013-04-16T10:09:43.000000Z"
+   kind="file"
+   committed-date="2013-04-16T10:09:43.625000Z"/>
+<entry
+   name="sql_20130425.sql"
+   checksum="27bca93250c7f2ee10d3965832851902"
+   last-author="guolei"
+   committed-rev="11363"
+   text-time="2013-04-25T09:14:07.000000Z"
+   kind="file"
+   committed-date="2013-04-25T09:14:07.750000Z"/>
+</wc-entries>

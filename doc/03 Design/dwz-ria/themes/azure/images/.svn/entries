@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/themes/azure/images"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="accordion"
+   kind="dir"/>
+<entry
+   name="account_info_bg.png"
+   checksum="100712b7b27cee61c105e31ec16e1a74"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="alert"
+   kind="dir"/>
+<entry
+   name="button"
+   kind="dir"/>
+<entry
+   name="dialog"
+   kind="dir"/>
+<entry
+   name="form"
+   kind="dir"/>
+<entry
+   name="grid"
+   kind="dir"/>
+<entry
+   name="header_bg.png"
+   checksum="4d9dfc07fa405a256c9f3117193b01cc"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="icon.png"
+   checksum="37a5f80173f08004eb7d97b7fa72bbbd"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   name="listLine.png"
+   checksum="71d689892f8099c7c14f99cf97d3db03"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="menu"
+   kind="dir"/>
+<entry
+   name="order_down.gif"
+   checksum="d7b9627e02390cc33518a32fe3145530"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="order_up.gif"
+   checksum="65372c241f3d50de3d473d3a75b20b09"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="pageHeader_bg.png"
+   checksum="53cbb20b292de3b97e3e387f3e0c1fd4"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="panel"
+   kind="dir"/>
+<entry
+   name="preview.png"
+   checksum="cc5228740c7c293df4189bc4b612513e"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="progressBar"
+   kind="dir"/>
+<entry
+   name="search-bg.gif"
+   checksum="38823536fa4126541613b4820fad38d8"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="search-bt.gif"
+   checksum="9bf97c1f313c01552cc822f33dc6494f"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="shadow"
+   kind="dir"/>
+<entry
+   name="tabs"
+   kind="dir"/>
+<entry
+   name="tree"
+   kind="dir"/>
+</wc-entries>

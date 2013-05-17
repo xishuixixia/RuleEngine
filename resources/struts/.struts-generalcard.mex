@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="commoncard-package" location="87,165" size="350,210">
+    <action name="*CommonCard" location="135,61" size="150,104">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="creategeneralcard.jsp" />
+      </result>
+      <result name="find">
+        <resourceEdge source="find" routing="0" target="delaygeneralcard.jsp" />
+      </result>
+      <result name="delay">
+        <resourceEdge source="delay" routing="0" target="delaygeneralcard.jsp" />
+      </result>
+      <result name="transform">
+        <resourceEdge source="transform" routing="0" target="transformCommonCard.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="creategeneralcard.jsp" path="/commoncard/creategeneralcard.jsp" location="182,430" size="150,55" />
+  <webResource name="delaygeneralcard.jsp" path="/commoncard/delaygeneralcard.jsp" location="10,10" size="150,55" />
+  <webResource name="transformCommonCard.jsp" path="/commoncard/transformCommonCard.jsp" location="491,220" size="150,55" />
+</Struts2Diagram>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="test-package" extends="my-package"  namespace="/test">	  
+		<action name="*Test" class ="loginAction" method ="{1}Test">
+		   <result name="show">/test/login.jsp</result>
+		   <result name="index" type="redirect">index?userName=${member.username}</result>
+		   <result name="answer" type="redirect">answer?userName=${userName}</result>
+		   <result name="document" type="redirect">document?userName=${userName}</result>
+		   <result name="user" type="redirect">userSelect?userName=${userName}</result>
+		   <result name="usera" type="redirect">userSelect?userName=${member.username}</result>
+		</action>
+		<action name="index" class ="loginAction" method ="testIndex">
+		   <result name="index">/test/login.jsp</result>
+		</action>	
+		<action name="answer" class ="loginAction" method ="testAnswer">
+		   <result name="answer" type="redirect">/test/answer.jsp</result>
+		</action>		
+		<action name="userSelect" class ="loginAction" method ="testUser">
+		   <result name="user">/test/userSelect.jsp</result>
+		</action>	
+	</package>
+	</struts>

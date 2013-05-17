@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/resources/struts"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11345"
+   kind="dir"
+   committed-date="2013-04-25T07:07:31.375000Z"/>
+<entry
+   name=".struts-countandtiming.mex"
+   checksum="13d4571dcbbe22b71e05506bf8ea2df0"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name=".struts-generalcard.mex"
+   checksum="70dfc8c64a4730bf8007a5fc972251c5"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name=".struts-posquery.mex"
+   checksum="470f3dbebda8dfbe01e0eda8bf67fec5"
+   last-author="guolei"
+   committed-rev="10873"
+   text-time="2013-04-10T02:40:47.000000Z"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="struts-action.xml"
+   checksum="a5490befe0880b1960ab8d75760113f0"
+   last-author="guolei"
+   committed-rev="11345"
+   text-time="2013-04-25T07:07:31.000000Z"
+   kind="file"
+   committed-date="2013-04-25T07:07:31.375000Z"/>
+<entry
+   name="struts-condition.xml"
+   checksum="bed23d06b4e4844e1f137c9d1646f51f"
+   last-author="guolei"
+   committed-rev="10954"
+   text-time="2013-04-15T02:15:56.000000Z"
+   kind="file"
+   committed-date="2013-04-15T02:15:56.234375Z"/>
+<entry
+   name="struts-entity.xml"
+   checksum="87d1223dc73be870b62e203b4da5a6dc"
+   last-author="guolei"
+   committed-rev="10995"
+   text-time="2013-04-15T13:36:25.000000Z"
+   kind="file"
+   committed-date="2013-04-15T13:36:25.156250Z"/>
+<entry
+   name="struts-platform.xml"
+   checksum="8238742a7f0c78a446edb685a9d0a07f"
+   last-author="zhuzhisheng"
+   committed-rev="11179"
+   text-time="2013-04-19T06:11:32.000000Z"
+   kind="file"
+   committed-date="2013-04-19T06:11:32.703125Z"/>
+<entry
+   name="struts-rule.xml"
+   checksum="e043998a1f2148a50456e56112923c1c"
+   last-author="guolei"
+   committed-rev="11070"
+   text-time="2013-04-17T06:12:53.000000Z"
+   kind="file"
+   committed-date="2013-04-17T06:12:53.671875Z"/>
+<entry
+   name="struts-scene.xml"
+   checksum="da757ee9aa2a161e6af293c9c9fbe562"
+   last-author="liuyaxin"
+   committed-rev="11217"
+   text-time="2013-04-22T07:46:47.000000Z"
+   kind="file"
+   committed-date="2013-04-22T07:46:47.671875Z"/>
+<entry
+   name="struts-test.xml"
+   checksum="1b09cf40788cd97efc54413fa4c263cb"
+   last-author="guolei"
+   committed-rev="11339"
+   text-time="2013-04-25T06:26:24.000000Z"
+   kind="file"
+   committed-date="2013-04-25T06:26:24.968750Z"/>
+<entry
+   name="struts-variable.xml"
+   checksum="7d196c28bfdd2da7be169a55f5113d52"
+   last-author="guolei"
+   committed-rev="10995"
+   text-time="2013-04-15T13:36:25.000000Z"
+   kind="file"
+   committed-date="2013-04-15T13:36:25.156250Z"/>
+</wc-entries>

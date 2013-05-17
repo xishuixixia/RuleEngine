@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/resources/spring"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="11236"
+   kind="dir"
+   committed-date="2013-04-23T02:55:24.640625Z"/>
+<entry
+   name="applicationContext-common.xml"
+   checksum="06a3425c781ca5817af2416cb1515bae"
+   last-author="guolei"
+   committed-rev="11218"
+   text-time="2013-04-22T07:49:06.000000Z"
+   kind="file"
+   committed-date="2013-04-22T07:49:06.250000Z"/>
+<entry
+   name="mvc-config.xml"
+   checksum="b532790eee46e57b49fece52483908de"
+   last-author="guolei"
+   committed-rev="11218"
+   text-time="2013-04-22T07:49:06.000000Z"
+   kind="file"
+   committed-date="2013-04-22T07:49:06.250000Z"/>
+<entry
+   name="remoting-servlet.xml"
+   checksum="7caa4f9c039df649231248d83edf8eb0"
+   last-author="guolei"
+   committed-rev="11236"
+   text-time="2013-04-23T02:55:24.000000Z"
+   kind="file"
+   committed-date="2013-04-23T02:55:24.640625Z"/>
+</wc-entries>

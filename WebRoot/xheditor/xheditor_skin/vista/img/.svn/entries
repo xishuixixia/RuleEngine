@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="zhuzhisheng"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/xheditor/xheditor_skin/vista/img"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10976"
+   kind="dir"
+   committed-date="2013-04-15T09:06:29.015625Z"/>
+<entry
+   name="anchor.gif"
+   checksum="60a2121d55f9238f529458ee5f2e6e4e"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="buttonbg.gif"
+   checksum="6c2d4124a493fb8e5ca9557d1c4eff51"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="close.gif"
+   checksum="eee21ca97efedd23439a801ae453454d"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="flash.gif"
+   checksum="6c69b02015d09280332ff8b07e4ea2f3"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="icons.gif"
+   checksum="3b8d8f14d5e5fe83b993bf06e4580cb2"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="loading.gif"
+   checksum="cd8ea8c61cc67136b1d96686913bf2f6"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="progress.gif"
+   checksum="c6c9a3c68320b0d39de2dcc9c5cdde49"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="progressbg.gif"
+   checksum="e7b6b337ed48acad648e6c3fa9570a2c"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-address.gif"
+   checksum="cb22116a30e5ddbc9c337fb273d8b37d"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-div.gif"
+   checksum="2bc22d42c94ff5dcdfdbb36c64708a24"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h1.gif"
+   checksum="5564ae5338ac4ccb87da3231e8f02d98"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h2.gif"
+   checksum="6e4e8c04bc1f39172af04921ea3a0bf8"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h3.gif"
+   checksum="faa11b0aa08b2714f889319b056c367b"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h4.gif"
+   checksum="ff95159e3d7e2747796c9d2af4737998"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h5.gif"
+   checksum="b066ccaeaa343f447971d3fe11918826"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-h6.gif"
+   checksum="a6a4c5e8756c50457239d237e6cb21e5"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-p.gif"
+   checksum="f46c4ba7bd1b8b1e1049e27d11da3779"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="tag-pre.gif"
+   checksum="26cdf0c465f090dcb77f3f8722e317d0"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="titlebg.gif"
+   checksum="dfc9d63b3a4755ded2653e4c1e2089fb"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="waiting.gif"
+   checksum="39e618892ce39635998073c6207f38e3"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="wmp.gif"
+   checksum="c327cd167b3a7bc263d908b0d0154ead"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+<entry
+   name="wordimg.gif"
+   checksum="93ede01f0bd45fc3331594e7fb081284"
+   last-author="zhuzhisheng"
+   text-time="2013-04-15T09:06:29.000000Z"
+   committed-rev="10976"
+   kind="file"
+   committed-date="2013-04-15T09:06:29.015625Z"
+   prop-time="2013-04-27T09:27:48.000000Z"/>
+</wc-entries>

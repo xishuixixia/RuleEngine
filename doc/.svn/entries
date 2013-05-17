@@ -1,0 +1,43 @@
+10
+
+dir
+11429
+svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc
+svn://192.168.100.213/hxbos
+
+
+
+2013-04-25T09:14:07.750000Z
+11363
+guolei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3f7a3d14-fe23-b64b-80ec-6e9f810302a0
+
+01 Project Management
+dir
+
+02 Discovery
+dir
+
+03 Design
+dir
+
+04 Test
+dir
+
+05 Training
+dir
+

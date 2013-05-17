@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="countandtiming-package" location="365,10" size="280,315">
+    <action name="*CountService" location="65,47" size="150,62">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="buycountservice.jsp" />
+      </result>
+      <result name="buySuccess">
+        <resourceEdge source="buySuccess" routing="0" target="buycountservice_success.jsp" />
+      </result>
+    </action>
+    <action name="*TimingService" location="65,222" size="150,62">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="buytimingservice.jsp" />
+      </result>
+      <result name="buySuccess">
+        <resourceEdge source="buySuccess" routing="0" target="buycountservice_success.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="buycountservice.jsp" path="/countandtiming/buycountservice.jsp" location="699,30" size="150,55" />
+  <webResource name="buycountservice_success.jsp" path="/countandtiming/buycountservice_success.jsp" location="10,30" size="150,55" />
+  <webResource name="buytimingservice.jsp" path="/countandtiming/buytimingservice.jsp" location="696,205" size="150,55" />
+</Struts2Diagram>
+

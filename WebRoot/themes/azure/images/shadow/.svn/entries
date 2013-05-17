@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/WebRoot/themes/azure/images/shadow"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="Thumbs.db"
+   checksum="a43644072ed5f4baff0dadd31d6c46ba"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_c_c.png"
+   checksum="d383429eb43262b1537d2c8cb5f701a9"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_c_l.png"
+   checksum="3458d942a75266eea2a7e387b6001fea"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_c_r.png"
+   checksum="e6b8a8d0c0cf6b4a0355a589f4089acb"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_f_c.png"
+   checksum="0a43c747bcb1a26e42cbac2c0d1cb636"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_f_l.png"
+   checksum="9f2013c4bffb3b817e697463a8ced0bb"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_f_r.png"
+   checksum="1f8cb7bb454806741e9bb96fd25c1bb8"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_h_c.png"
+   checksum="5875b242479805a554e85c1159f9c0f7"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_h_l.png"
+   checksum="ec9a2b9a6b9840e787cb0a76588c62d2"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+<entry
+   name="shadow_h_r.png"
+   checksum="aa9fbcb336577ef3a14fed0f639d9e75"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:47.000000Z"/>
+</wc-entries>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="posquery-package" location="291,165" size="525,665">
+    <action name="queryTransaction*" location="310,47" size="150,62">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="queryTransaction.jsp" />
+      </result>
+      <result name="detail">
+        <resourceEdge source="detail" routing="0" target="transactionDetails.jsp" />
+      </result>
+    </action>
+    <action name="queryCoupon*" location="310,232" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="queryCouponToGift.jsp" />
+      </result>
+    </action>
+    <action name="queryPoints*" location="310,407" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="queryPointToGift.jsp" />
+      </result>
+    </action>
+    <action name="queryRecharge*" location="310,582" size="150,41">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="queryRecharge.jsp" />
+      </result>
+    </action>
+    <action name="*WorkRecords" location="65,572" size="150,62">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="queryWorkRecords.jsp" />
+      </result>
+      <result name="login">
+        <resourceEdge source="login" routing="0" target="login.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="queryTransaction.jsp" path="/posquery/queryTransaction.jsp" location="885,185" size="150,55" />
+  <webResource name="transactionDetails.jsp" path="/posquery/transactionDetails.jsp" location="564,10" size="150,55" />
+  <webResource name="queryCouponToGift.jsp" path="/posquery/queryCouponToGift.jsp" location="882,360" size="150,55" />
+  <webResource name="queryPointToGift.jsp" path="/posquery/queryPointToGift.jsp" location="885,535" size="150,55" />
+  <webResource name="queryRecharge.jsp" path="/posquery/queryRecharge.jsp" location="859,710" size="150,55" />
+  <webResource name="queryWorkRecords.jsp" path="/posquery/queryWorkRecords.jsp" location="10,710" size="150,55" />
+  <webResource name="login.jsp" path="/login.jsp" location="381,885" size="150,55" />
+</Struts2Diagram>
+

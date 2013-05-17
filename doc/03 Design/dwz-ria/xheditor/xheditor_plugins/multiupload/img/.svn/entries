@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://192.168.100.213/hxbos"
+   name=""
+   revision="11429"
+   last-author="guolei"
+   url="svn://192.168.100.213/hxbos/src/trunk/modules/RuleEngine/doc/03%20Design/dwz-ria/xheditor/xheditor_plugins/multiupload/img"
+   uuid="3f7a3d14-fe23-b64b-80ec-6e9f810302a0"
+   committed-rev="10873"
+   kind="dir"
+   committed-date="2013-04-10T02:40:47.390625Z"/>
+<entry
+   name="add.gif"
+   checksum="d9f68c4bbc502395dbc6bb24187d1152"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="bg1.gif"
+   checksum="1395a3a93b8d9e1d62eb796dbeb83cf0"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="bg2.gif"
+   checksum="55a4ccc647635886f45b5a05d3d0f491"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="btnbg.gif"
+   checksum="16f9a0beb3ed40c31c4b117e8ba35ebb"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="btnbgr.gif"
+   checksum="ffc5d8f4abf032536dac7ef40aa78445"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="clear.gif"
+   checksum="bc156aa145f851a2f1f3ecaa76d0487b"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="progressbg.gif"
+   checksum="17e5e72ef0c03ea1b049ad42126dd4db"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+<entry
+   name="start.gif"
+   checksum="6e119aa941ceb5725a2927f24f0dfa8a"
+   last-author="guolei"
+   text-time="2013-04-10T02:40:47.000000Z"
+   committed-rev="10873"
+   kind="file"
+   committed-date="2013-04-10T02:40:47.390625Z"
+   prop-time="2013-04-27T09:27:59.000000Z"/>
+</wc-entries>
